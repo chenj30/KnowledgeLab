@@ -1,0 +1,2 @@
+noAnimate();
+clicked = false;

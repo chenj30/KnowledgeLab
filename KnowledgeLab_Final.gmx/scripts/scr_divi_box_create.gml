@@ -1,0 +1,2 @@
+noAnimate();
+answer = -1;

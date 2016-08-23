@@ -1,0 +1,9 @@
+gameOver = false;
+evaporation = false;
+condensation = false;
+precipitation = false;
+runoff = false;
+global.gameStart = false;
+cycleStep = 0;
+if(room == rm_cycle_boss)
+    cycleStep = irandom(2)+1;
