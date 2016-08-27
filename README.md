@@ -1,6 +1,8 @@
 # KnowledgeLab
 An educational game meant to teach NY Core Curriculum subjects to 4th graders
+
 Created using GameMaker: Studio
+
 Collaborated with 1st Playable Productions to playtest the game with a 4th grader
 
 #Download
