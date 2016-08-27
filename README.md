@@ -7,6 +7,9 @@ Once installed, run the game and click 'New Game'.
 
 #Credits
 Project Manager - Leah Magrane
+
 Lead Programmer - Johnny Chen
+
 Lead Artist - Catherine Litvaitis
+
 Creative Director - Taylor Eruysal 
